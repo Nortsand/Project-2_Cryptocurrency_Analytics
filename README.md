@@ -1,6 +1,11 @@
-# PROYECTO INDIVIDUAL  N°2
-## Data Analytics - Cryptocurrency Market
-*Autor: Yuri Díaz*
+# Data Analytics Project - Cryptocurrency Market
+
+<p align="center">
+  <img src="img/Crypto.jpg" width="700"/>
+</p>
+
+
+*Autor: Renato Díaz*
 
 ¡Bienvenido!
 
