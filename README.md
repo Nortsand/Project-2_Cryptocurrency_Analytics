@@ -60,7 +60,7 @@ Una vez seleccionadas las criptomonedas extrajimos los datos de la API de CoinGe
 El archivo de cada moneda se descargó en formato *.json* en la carpeta "data".
 
 <p align="center">
-  <img src="img/Captura4.jpg" width="700"/>
+  <img src="img/Captura5.jpg" width="700"/>
 </p>
 
 
