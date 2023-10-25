@@ -81,7 +81,7 @@ Antes:
 </p>
 Después: 
 <p align="center">
-  <img src="img/Captura9.jpg" width="600"/>
+  <img src="img/Captura9.jpg" width="500"/>
 </p>
 
 * Cambiamos los tipos de datos de las columnas modificadas.
