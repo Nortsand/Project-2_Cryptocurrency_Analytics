@@ -72,7 +72,17 @@ El archivo de cada moneda se descargó en formato *.json* en la carpeta "data".
 
 
 # Limpieza, transformación y exportación
-* Los valores de las columnas se encontraban en forma de listas con dos valores dentro. El primero correspondía al formato de tiempo Unix y el segundo al valor de la columna. Del formato Unix extrajimos y agregamos una columna de fecha con el año, mes y día y eliminamos el formato Unix de cada valor. 
+* Los valores de las columnas se encontraban en forma de listas con dos valores dentro. El primero correspondía al formato de tiempo Unix y el segundo al valor de la columna. Para solucionar ambos problemas extrajimos del formato UNIX cuatro columnas: datetime, year, month y day. Y eliminamos el valor UNIX en cada columna, así como los corchetes. 
+Como todos los datasets de las 10 monedas presentan estos problemas, realizaremos los cambios para todos los archivos. 
+
+Antes:
+<p align="center">
+  <img src="img/Captura8.jpg" width="700"/>
+</p>
+Después: 
+<p align="center">
+  <img src="img/Captura9.jpg" width="700"/>
+</p>
 
 * Cambiamos los tipos de datos de las columnas modificadas.
 
