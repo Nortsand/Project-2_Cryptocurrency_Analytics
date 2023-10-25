@@ -1,0 +1,11 @@
+Ticker;Average Standard Deviation;volatility_category;Historical Return;id
+BTC;5316,726008;Volatilidad alta;72,03;binancecoin
+ETH;374,408666;Volatilidad alta;136,85;bitcoin
+BNB;49,038352;Volatilidad media;249,94;cardano
+LTC;23,890145;Volatilidad media;31,66;chainlink
+LINK;3,071576;Volatilidad baja;183,91;ethereum
+ADA;0,176484;Volatilidad baja;161,02;ripple
+XRP;0,148752;Volatilidad baja;50,22;stellar
+XLM;0,048067;Volatilidad baja;35,39;tether
+USDC;0,004299;Volatilidad baja;-0,10;litecoin
+USDT;0,002723;Volatilidad baja;0,08;usd-coin
