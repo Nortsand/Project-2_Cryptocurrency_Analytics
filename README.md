@@ -23,6 +23,7 @@ A partir de en un dataset de 10 critptomonedas con datos de los últimos cinco a
 - [Limpieza, transformación y exportación](#limpieza-transformación-y-exportación)
 - [Análisis exploratorio de datos](#análisis-exploratorio-de-datos)
 - [Informe de análisis](#informe-de-análisis)
+- [Dashboard](#dashboard)
 - [Tecnologías usadas](#tecnologías-usadas)
 
 
@@ -123,6 +124,19 @@ Volatilidad media(Valores entre 20 y 100): binance coin, litecoin. Volatilidad a
 * Bitcoin domina el mercado y sus movimientos influyen en las cotizaciones del resto de criptomonedas. 
 * En el año 2021 se produjo el mayor volumen promedio de la historia del mercado de criptomonedas.
 
+# Dashboard
+El dashboard lo realizamos en PowerBi. El archivo puede encontrarse en el siguiente [link](
+https://drive.google.com/drive/folders/1MqB2SZgwfMTwkU6NJJZUyhPaE73CaqVr?usp=sharing).
+
+A continuación colocamos unas muestras de la visualización interactiva creada: 
+
+<p align="center">
+  <img src="img/Captura7.jpg" width="700"/>
+</p>
+
+<p align="center">
+  <img src="img/Captura4.jpg" width="700"/>
+</p>
 
 # Tecnologías usadas
 * Librerías de Python: Pandas, Matplotlib, Seaborn, pycoingecko, json.
