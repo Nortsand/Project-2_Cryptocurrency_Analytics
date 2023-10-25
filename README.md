@@ -79,10 +79,14 @@ https://docs.google.com/spreadsheets/d/1wTTuxXt8n9q7C4NDXqQpI3wpKu1_5bGVmP9Xz0XG
 # Análisis exploratorio de datos
 * Graficamos distribuciones y outliers.
 * Buscamos relaciones entre las variables y tendencias.
+
+Gráficos comparativos entre el Promedio total de volumen por año y el Promedio de precios por año:
 <p align="center">
   <img src="img/Captura1.jpg" width="700"/>
 </p>
 
+
+Relación entre el precio del Bitcoin y el resto criptomonedas seleccionadas:
 <p align="center">
   <img src="img/Captura2.jpg" width="700"/>
 </p>
