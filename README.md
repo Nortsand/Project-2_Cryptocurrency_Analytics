@@ -59,6 +59,10 @@ Con el entorno listo ya podemos empezar a trabajar
 Una vez seleccionadas las criptomonedas extrajimos los datos de la API de CoinGecko, una reconocida página que posee datos de aproximadamente 4000 monedas. Para poder conectarnos con la API usamos el módulo CoinGeckoAPI de la librería *pycoingecko*. Hicimos la petición a un *endpoint* que nos permitió extraer data histórica de los últimos cinco años de los campos precios, capitalización de mercado y volumen total.
 El archivo de cada moneda se descargó en formato *.json* en la carpeta "data".
 
+<p align="center">
+  <img src="img/Captura4.jpg" width="700"/>
+</p>
+
 
 # Limpieza, transformación y exportación
 * Los valores de las columnas se encontraban en forma de listas con dos valores dentro. El primero correspondía al formato de tiempo Unix y el segundo al valor de la columna. Del formato Unix extrajimos y agregamos una columna de fecha con el año, mes y día y eliminamos el formato Unix de cada valor. 
