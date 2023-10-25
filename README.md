@@ -131,11 +131,11 @@ https://drive.google.com/drive/folders/1MqB2SZgwfMTwkU6NJJZUyhPaE73CaqVr?usp=sha
 A continuación colocamos unas muestras de la visualización interactiva creada: 
 
 <p align="center">
-  <img src="img/Captura7.jpg" width="700"/>
+  <img src="img/Captura7.jpg" width="600"/>
 </p>
 
 <p align="center">
-  <img src="img/Captura4.jpg" width="700"/>
+  <img src="img/Captura4.jpg" width="600"/>
 </p>
 
 # Tecnologías usadas
