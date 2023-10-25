@@ -75,6 +75,11 @@ https://docs.google.com/spreadsheets/d/1wTTuxXt8n9q7C4NDXqQpI3wpKu1_5bGVmP9Xz0XG
 # Análisis exploratorio de datos
 * Buscamos relaciones entre las variables.
 * Usamos diferentes tipos de gráficos para encontrar tendencias, distribuciones, outliers.
+<p align="center">
+  <img src="img/Captura1.jpg" width="400"/>
+  <img src="img/Captura2.jpg" width="400"/>
+</p>
+
 * Obtuvimos métricas como:
 * Promedio de precios con diferentes rangos de fecha.
 * Porcentajes de rendimiento comparados .
