@@ -77,8 +77,8 @@ https://docs.google.com/spreadsheets/d/1wTTuxXt8n9q7C4NDXqQpI3wpKu1_5bGVmP9Xz0XG
 
 
 # Análisis exploratorio de datos
-* Buscamos relaciones entre las variables.
-* Usamos diferentes tipos de gráficos para encontrar tendencias, distribuciones, outliers.
+* Graficamos distribuciones y outliers.
+* Buscamos relaciones entre las variables y tendencias.
 <p align="center">
   <img src="img/Captura1.jpg" width="700"/>
 </p>
