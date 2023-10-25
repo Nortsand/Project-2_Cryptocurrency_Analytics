@@ -1,8 +1,9 @@
 # Data Analytics Project - Cryptocurrency Market
 
 <p align="center">
-  <img src="img/Crypto.jpg" width="700"/>
+  <img src="img/Crypto.jpg" width="400"/>
 </p>
+
 
 
 *Autor: Renato Díaz*
